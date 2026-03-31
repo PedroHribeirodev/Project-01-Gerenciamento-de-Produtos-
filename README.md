@@ -1,15 +1,13 @@
- Gerenciador de Produtos
+#  Gerenciador de Produtos (POO)
 
-Projeto em Python para controle de vendas.
+Sistema em Python usando Programação Orientada a Objetos.
 
- Funcionalidades
-- Cadastro de produtos
-- Listagem
-- Atualização de estoque
+##  Estrutura
+- models → classes
+- services → regras
+- main → execução
 
- 🛠 Tecnologias
-- Python
-
- Como rodar
-```bash
-python vendas.py
+##  Funcionalidades
+- cadastrar produto
+- listar produtos
+- excluir produtos 
